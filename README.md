@@ -33,3 +33,15 @@ The project uses a comprehensive baseball dataset containing historical data on 
 
 - Incorporate real-time game data for dynamic strike zone prediction.
 - Explore other machine learning techniques for strike zone prediction, such as deep learning approaches.
+
+## Outputs
+
+![image](https://github.com/user-attachments/assets/aff960bf-d30c-4e53-af4c-242c1d931419)
+
+![image](https://github.com/user-attachments/assets/7e36c0c9-b011-4d4b-baa2-649a56840ad4)
+
+![image](https://github.com/user-attachments/assets/7be52e51-d507-4375-9ab2-c9eaaf9f60a9)
+
+![image](https://github.com/user-attachments/assets/d16e3a4d-b90d-4dfa-832f-175b21b52b60)
+
+
